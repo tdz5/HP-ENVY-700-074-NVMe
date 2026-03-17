@@ -1,4 +1,4 @@
-# HP-ENVY-700-074-NVMe
+# HP-ENVY-700-074-NVMe-disable-ME
 This is a modded bios for the HP ENVY 700-074 with NVMe boot support and mostly disabled Intel Management Engine with me_cleaner
 
 
@@ -8,4 +8,4 @@ This is a modded bios for the HP ENVY 700-074 with NVMe boot support and mostly 
   HP_ENVY_700_074_me_cleaned.bin *This is just with the management engine nutrilized*  
   HP_ENVY_700_074_nvme_me_cleaned.bin *This is with both the nvme support and nutrilized management engine*  
 
-**!!!Make sure you backup your current bios before flashing if you need to restore!!!**
+**!!!Make sure you backup and veriy your current bios before flashing if you need to restore as my backup HP_ENVY_700_074_OEM.bin may not work on your motherboard!!!**
